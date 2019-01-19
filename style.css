@@ -1,3 +1,8 @@
 body{
-    background-color: darkkhaki
+    background-color: darkkhaki;
+    margin: 0%
+}
+p{
+    background-color: cyan;
+    font: outline;
 }
